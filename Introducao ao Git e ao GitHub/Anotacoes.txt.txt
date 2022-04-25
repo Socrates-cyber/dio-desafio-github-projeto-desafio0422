@@ -1,2 +1,2 @@
 Link para download do Git: https://github.com/git-guides/install-git
-O Git Besh é um terminal para otimizar o uso do Git.
+O Git Besh é um terminal extendido para otimizar o uso do Git.
