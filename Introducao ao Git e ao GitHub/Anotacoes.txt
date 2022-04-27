@@ -1,3 +1,7 @@
 Link para download do Git: https://github.com/git-guides/install-git
 O Git Besh é um terminal extendido para otimizar o uso do Git.
 Incluído link para Download do git para Windows.
+
+Erros encontrados ao fazer update local:
+
+1) 
