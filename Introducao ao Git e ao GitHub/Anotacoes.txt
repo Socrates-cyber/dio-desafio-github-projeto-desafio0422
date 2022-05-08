@@ -1,7 +1,59 @@
-Link para download do Git: https://github.com/git-guides/install-git
-O Git Besh é um terminal extendido para otimizar o uso do Git.
-Incluído link para Download do git para Windows.
+Links úteis:
+1) download do Git: https://github.com/git-guides/install-git
+2) Incluído link para Download do git para Windows.
+3) Link para dúvidas Stake overflow
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
 
 Erros encontrados ao fazer update local:
 
-1) 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+Data 08/05/22, Módulo, Primeiros passos para desenvolvimento WEB,
+aula: Introdução a programação para internet/Como funciona a internet/o que são redes
+Exercício:
+1) Identificar o ip através do ping seguido do nome do site.
+Resolução: 
+Através da tecla de atalho windows + r, abrir cmd, digitar: ping "nome do site", 
+testei o site da Spread e obtive:
+
+C:\Users\Socrates>ping www.spread.com.br
+
+Disparando www.spread.com.br [35.208.33.149] com 32 bytes de dados:
+Resposta de 35.208.33.149: bytes=32 tempo=185ms TTL=105
+Resposta de 35.208.33.149: bytes=32 tempo=145ms TTL=105
+Resposta de 35.208.33.149: bytes=32 tempo=174ms TTL=105
+Resposta de 35.208.33.149: bytes=32 tempo=153ms TTL=105
+
+Estatísticas do Ping para 35.208.33.149:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 145ms, Máximo = 185ms, Média = 164ms
+
+
+utilizei
+o site da Dio, obtive o seguinte resultado:
+
+C:\Users\Socrates>ping www.dio.me
+
+Disparando cname.vercel-dns.com [76.76.21.9] com 32 bytes de dados:
+Resposta de 76.76.21.9: bytes=32 tempo=12ms TTL=115
+Resposta de 76.76.21.9: bytes=32 tempo=15ms TTL=115
+Resposta de 76.76.21.9: bytes=32 tempo=20ms TTL=115
+Esgotado o tempo limite do pedido.
+
+Estatísticas do Ping para 76.76.21.9:
+    Pacotes: Enviados = 4, Recebidos = 3, Perdidos = 1 (25% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 12ms, Máximo = 20ms, Média = 15ms
+
+    
