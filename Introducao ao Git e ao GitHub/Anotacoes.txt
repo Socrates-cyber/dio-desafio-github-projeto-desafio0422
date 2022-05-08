@@ -7,9 +7,74 @@ Links úteis:
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 
-Erros encontrados ao fazer update local:
+Comandos realizados no git/ github:
+------------------------------------------------------------------------------------------------------------
+2) Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+$ git commit -m "Inclusão de anotaçoes do curso de Git/GitHub"
+hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Introducao ao Git e ao GitHub/Anotacoes.txt  
+
+no changes added to commit (use "git add" and/or "git commit -a")
+------------------------------------------------------------------------------------------------------
+3) Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+
+$ git push origin main
+Everything up-to-date
+
+4) Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+$ git status
+hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Introducao ao Git e ao GitHub/Anotacoes.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+
+--------------------------------------------------------------------------------
+1) Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+$ git add .
+hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+-----------------------------------------------------------------------------------------
+
+Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+$ git pull
+hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+Already up to date.
+--------------------------------------------------------------------------------------------------
+
+Socrates@NotePhilco MINGW64 /e/Documents/Dev/Git/DIO/dio-desafio-github-projeto-desafio0422 (main)
+$ git status
+hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
+hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   Introducao ao Git e ao GitHub/Anotacoes.txt
+-------------------------------------------------------------------------------------------------------------
 
 
+
+
+
+Acessei o stie do github:
 
 
 
